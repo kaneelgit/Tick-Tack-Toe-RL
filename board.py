@@ -17,13 +17,13 @@ class tick_tack_toe:
         
             if player == 1:
 
-                self.board[str(move)] = 'X'                
+                self.board[str(move)] = 'O'                
                 self.avail_moves.remove(move)
                 
                 
             elif player == 2:
 
-                self.board[str(move)] = 'O'
+                self.board[str(move)] = 'X'
                 self.avail_moves.remove(move)
         
             #tick_tack_toe.print_board(self)

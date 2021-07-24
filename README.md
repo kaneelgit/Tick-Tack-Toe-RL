@@ -42,6 +42,7 @@ pic1.PNG - A png file used in the jupyter notebook.
 
 
 ## Future work
+**************
 
 - Use different exploration, learning rate, discount values
 

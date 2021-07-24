@@ -41,4 +41,8 @@ pic1.PNG - A png file used in the jupyter notebook.
 ![download (5)](https://user-images.githubusercontent.com/85404022/126875190-d6599370-085c-425d-b471-2a7b738147a2.png)
 
 
+## Future work
 
+- Use different exploration, learning rate, discount values
+
+- Will try to use deep RL to see if how the results change. 

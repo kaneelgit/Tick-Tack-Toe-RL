@@ -1,3 +1,4 @@
+![rl vs rl](https://user-images.githubusercontent.com/85404022/129118386-077bb1a3-f33f-4676-bced-d8d4d3a34858.png)
 # Tick-Tack-Toe-RL
 
 ## Files and Folder info
@@ -36,7 +37,7 @@ pic1.PNG - A png file used in the jupyter notebook.
 
 **RL agent and RL agent playing with each other**
 
-![download (4)](https://user-images.githubusercontent.com/85404022/126875184-fd14b561-d250-42b8-9bbd-690f1a0c1574.png)
+![rl vs rl](https://user-images.githubusercontent.com/85404022/129118393-395eaad3-25ce-42fc-9df7-eec761114918.png)
 
 ![download (5)](https://user-images.githubusercontent.com/85404022/126875190-d6599370-085c-425d-b471-2a7b738147a2.png)
 

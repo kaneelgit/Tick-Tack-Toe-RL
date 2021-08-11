@@ -1,4 +1,3 @@
-![rl vs rl](https://user-images.githubusercontent.com/85404022/129118386-077bb1a3-f33f-4676-bced-d8d4d3a34858.png)
 # Tick-Tack-Toe-RL
 
 ## Files and Folder info
